@@ -1,5 +1,5 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.17.2)
-PROJECT(dependency-A)
+PROJECT(Dependency-A)
 
 add_definitions("-std=c++11")
 
